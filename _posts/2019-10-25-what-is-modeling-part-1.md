@@ -5,7 +5,7 @@ author: al
 ---
 So you might be wondering how prediction is done in Data Science, right? On tasks such as predicting the price of a commodity, the next-best product to recommend, etc. Or if you use Facebook, then likely you've been notified to tag that lovely face of your friend in your photo. If you use Youtube, then maybe you have tried using *auto-generated subtitle/caption*. Oh, so you have iPhone, then maybe you are using Face ID to unlock your phone. All these, work by doing prediction --- predicting the next caption, predicting the face in the image, etc. 
 
-Again the question is, how does it work? Well, all of these are based on **Modeling**, and to understand this, we will use an analogy. You should be a fan of *Kapamilya* shows to relate to the following example, in particular, the **Your Face Sounds Familiar** segment. Consider the following illustration:
+Again the question is, how does it work? Well, all of these are based on **Modeling**, and to understand this, we will use an analogy. You should be a fan of *Kapamilya* shows to relate to the following example, in particular, the singing segment **Your Face Sounds Familiar**. Consider the following illustration:
 <!-- more -->
 
 <img src="{{ site.baseurl }}/assets/img/img1.png">
