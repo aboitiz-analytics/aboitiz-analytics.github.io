@@ -4,7 +4,7 @@
  <title>Aboitiz Analytics</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-10-25T10:53:32+08:00</updated>
+ <updated>2019-10-25T10:59:05+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -23,7 +23,7 @@
 &lt;!-- more --&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/img1.png&quot; /&gt;
-We have here Adam Lavine and Michael Pangilinan and our goal is to predict how Adam sings; how he walks; how he dances, maybe a Bahay Kubo or Gangnam Style; how he eat Tahoh, etc. Bottomline, we want to have Adam’s characteristics, but we don’t want to hire him just for that purpose because we don’t have money for that, rather we want someone to represent him. We will call this someone as our &lt;em&gt;model&lt;/em&gt;, and we need to &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;identify&lt;/b&gt;&lt;/span&gt; it. In this case, because Adam is male, so we need a male model, and that would be Michael. From the illustration, we will refer to Adam as our main &lt;em&gt;target&lt;/em&gt;, and we want to &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;train&lt;/b&gt;&lt;/span&gt; our &lt;em&gt;model&lt;/em&gt; to have the characteristics of our target, so that we can make &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;prediction&lt;/b&gt;&lt;/span&gt; (i.e. dancing Bahay Kubo) out of it.&lt;/p&gt;
+We have here Adam Lavine and Michael Pangilinan and our goal is to predict how Adam sings; how he walks; how he dances, maybe a Bahay Kubo or Gangnam Style; how he eat Tahoh, etc. Bottomline, we want to have Adam’s characteristics, but we don’t want to hire him just for that purpose because we don’t have money for that, rather we want someone to represent him. We will call this someone as our &lt;em&gt;model&lt;/em&gt;, and we need to &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;identify&lt;/b&gt;&lt;/span&gt; it. In this case, because Adam is male (obviously), so we need a male model, and that would be Michael. From the illustration, we will refer to Adam as our main &lt;em&gt;target&lt;/em&gt;, and we want to &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;train&lt;/b&gt;&lt;/span&gt; our &lt;em&gt;model&lt;/em&gt; to have the characteristics of our target, so that we can make &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;prediction&lt;/b&gt;&lt;/span&gt; (e.g. dancing Bahay Kubo) out of it.&lt;/p&gt;
 
 &lt;p&gt;To acheive Adam’s persona, we need to adjust the &lt;span style=&quot;color:red;&quot;&gt;&lt;b&gt;parameters&lt;/b&gt;&lt;/span&gt; we have in Michael’s form, our model. That is, we need to tune &lt;em&gt;the tattoos, the hair, the skin tone, the posture, and even the mannerism&lt;/em&gt;; and this is done  by training/optimizing/calibrating our model. By doing that, we should at least achieve the following:&lt;/p&gt;
 
@@ -33,7 +33,7 @@ In this case, we have a minimal error already since we’ve captured some of the
 &lt;p&gt;At this point, we can now make prediction. We’ll just let the &lt;em&gt;trained&lt;/em&gt;-Michael to dance, sing, etc. and what we get out of it is the best prediction we can have for Adam’s persona. That’s it! Stay-tuned, in the next article we’ll relate this concept to doing Data Science. Specifically, we’ll focus on the texts highlighted in red above, namely: &lt;strong&gt;identify&lt;/strong&gt;, &lt;strong&gt;train&lt;/strong&gt;, &lt;strong&gt;prediction&lt;/strong&gt;, and &lt;strong&gt;parameters&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h2&gt;
-&lt;p&gt;The photos used in this article are neither owned by the author and his employer, rather these were taken from Google Image Search and are credited to the owners.&lt;/p&gt;
+&lt;p&gt;The photos used in this article are neither owned by the author nor his employer, rather these were taken from Google Image Search and are credited to the owners.&lt;/p&gt;
 </content>
  </entry>
  
