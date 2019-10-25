@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Aboitiz Analytics
+tagline:             'Future Proofing Aboitiz with Data-Driven Decision-Making'
+description:         'The best way to create the future is to create it. <br><br><i>Abraham Lincoln</i>'
+url:                 https://aboitiz-analytics.github.io
+baseurl:             ''
+paginate:            1
+
+al:
+  name: Al-Ahmadgaid B. Asaad
+rey:
+  name: Reynaldo Tugade
+jays:
+  name: Jayson Yodico
+macky:
+  name: Mc Dranreb Cuartero
