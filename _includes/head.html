@@ -26,4 +26,19 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  {% comment %} <script>
+    function passwordCheck(){
+        document.getElementById("body").style.background = "black"
+        var password = prompt("Please enter the password.");
+        if (password==="ilikepie"){
+            window.location="{{ site.baseurl }}";
+        } else{
+            while(password !=="ilikepie"){
+                password = prompt("Please enter the password.");
+            }
+            window.location="{{ site.baseurl }}";
+        }
+    }
+    window.onload=passwordCheck;
+  </script> {% endcomment %}
 </head>

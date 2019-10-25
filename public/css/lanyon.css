@@ -35,10 +35,18 @@
  */
 
 /* Prevent scroll on narrow devices */
+@import url('https://fonts.googleapis.com/css?family=Saira+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 html,
 body {
   overflow-x: hidden;
   text-align: justify;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-size: 18px;
 }
 
 html {
@@ -46,13 +54,35 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Saira Condensed', sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
 }
 
+span.read-more {
+  border: 1px solid #ac4142;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-family: 'Saira Condensed', sans-serif;
+}
 
+.pagination-item {
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+span.read-more:hover {
+  background-color: #515151;
+  color: #fff;
+}
+
+a.read-more {
+  text-decoration: none;
+}
+
+.post-date {
+  font-family: 'Saira Condensed', sans-serif;
+}
 /*
  * Wrapper
  *
@@ -104,6 +134,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-size: 30px;
 }
 .masthead-title a {
   color: #505050;
