@@ -3,7 +3,7 @@ layout: post
 title: "Part 1 (Analogy): What is Modeling?"
 author: al
 ---
-So you might be wondering how prediction is done in Data Science, right? On tasks such as predicting the price of a commodity, the next-best product to recommend, etc. Or if you use Facebook, then likely you've been notified to tag that lovely face of your friend in your photo. If you use Youtube, then maybe you have tried using *auto-generated subtitle/caption*. Oh, you have iPhone X Max, then maybe you are using Face ID to unlock your phone. All these, work by doing prediction --- predicting the next caption, predicting the face in the image, etc. 
+So you might be wondering how prediction is done in Data Science, right? On tasks such as predicting the price of a commodity, the next-best product to recommend, etc. Or if you use Facebook, then likely you've been notified to tag that lovely face of your friend in your photo. If you use Youtube, then maybe you have tried using *auto-generated subtitle/caption*. Oh, you are using iPhone, then maybe you are using Face ID to unlock your phone. All these, work by doing prediction --- predicting the next caption, predicting the face in the image, etc. 
 
 Again the question is, how does it work? Well, all of these are based on **Modeling**, and to understand this, we will use an analogy. You should be a fan of *Kapamilya* shows to relate to the following example. Specifically, the **Your Face Sounds Familiar** segment. Consider the following illustration:
 <!-- more -->
